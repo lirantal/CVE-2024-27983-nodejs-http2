@@ -1,0 +1,14 @@
+{
+  "name": "fastify-hello-world",
+  "version": "1.0.0",
+  "description": "Hello World Fastify application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "fastify": "^4.0.0"
+  },
+  "author": "",
+  "license": "Apache-2.0"
+}
